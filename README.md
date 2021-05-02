@@ -3,7 +3,7 @@
 
 The library with extensions for view.
 
-## Пример использования:
+## Example:
 ```
 view.hide() — replace view.visibility = View.GONE
 view.show() — replace view.visibility = View.VISIBLE
