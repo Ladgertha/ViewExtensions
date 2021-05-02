@@ -1,16 +1,16 @@
 # ViewExtensions
 [![](https://jitpack.io/v/Ladgertha/ViewExtensions.svg)](https://jitpack.io/#Ladgertha/ViewExtensions)
 
-Библиотека с расширениями для view.
+The library with extensions for view.
 
 ## Пример использования:
 ```
-view.hide() — заменяет view.visibility = View.GONE
-view.show() — заменяет view.visibility = View.VISIBLE
-view.invisible() — заменяет view.visibility = View.INVISIBLE
+view.hide() — replace view.visibility = View.GONE
+view.show() — replace view.visibility = View.VISIBLE
+view.invisible() — replace view.visibility = View.INVISIBLE
 ```
 
-Подключение:
+How to use:
 - Gradle:
 ```
 allprojects {
