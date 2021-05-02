@@ -1,0 +1,2 @@
+include ':view_extensions'
+rootProject.name = "ViewExtensions"
